@@ -1,0 +1,19 @@
+*{
+    margin:2px;
+    padding: 2px;
+}
+
+.section1 .para{
+    width: 100%;
+    border: 1px solid black;
+    padding:15px;
+    margin: 20px 0px;
+    text-align: left;
+}
+#mystyle{
+    color: black;
+}
+section.second{
+    margin: 0 4px;
+    padding:0 2px;
+}
